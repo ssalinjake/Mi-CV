@@ -1,0 +1,157 @@
+html {background-color: rgb(255, 255, 255);
+box-sizing: border-box;
+}
+
+* { font-family:"Montserrat";
+    line-height: 200%;
+color: rgb(255, 255, 255);}
+.foto {   width: 150px;
+
+    height: 150px;
+
+}
+.top-header { display: flex;
+    justify-content: center;
+ align-items: center;
+}
+
+
+body{background: linear-gradient(black,rgb(68, 0, 255) , black,rgb(68, 0, 255) );
+    padding: 5rem 5rem
+ 
+
+}
+
+    h1 {font-size: 3rem;
+        font-family:"Press Start 2P";
+        text-transform: uppercase;
+        border-top: .5px solid rgb(255, 255, 255);
+        border-bottom: .5px solid rgb(255, 255, 255);
+        padding: 2.5rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        color: white;
+        text-align: center;
+     }
+
+     h1:hover{ color: #e43603
+     }
+
+.contacto  { display:flex;
+    justify-content: space-evenly;
+align-items: center;
+}
+
+
+
+
+     h2 {font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family:"Press Start 2P";
+    border-top: .5px solid rgb(255, 255, 255);
+    border-bottom: .5px solid rgb(255, 255, 255);
+    padding: .5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    }
+
+
+h2:hover{ color: #03e403
+}
+    h3 {font-size: 1rem;
+        text-transform: uppercase;
+        font-family:"Press Start 2P";
+        margin: 5px;
+        padding: 5px; 
+        text-align: center;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: .5px solid rgb(255, 255, 255);
+        margin-top: -1rem;
+        margin-bottom: 1rem;
+
+        }
+
+    
+
+    h3:hover{ color: #f4f806
+    }
+
+.presentacion {
+    margin: 5px;
+    padding: 10px; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-bottom: .5px solid rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+h4, h5 {text-align: start;
+}
+
+
+button { color: #03e403;
+background-color: transparent;
+opacity: 0.0 - 1.0;
+}
+    
+.alt12  {font-size: 1rem;
+    text-transform: uppercase;
+    font-family:"Press Start 2P";
+    margin: 5px;
+    padding: 10px; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-top: .5px solid rgb(255, 255, 255);
+    border-bottom: .5px solid rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    }
+
+.alt12:hover {color:#f4f806
+}
+
+p.empresa {
+    display: flex;
+    justify-content: end;
+    font-weight: 550;
+}
+
+span.titulos {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: 110%;
+}
+
+
+div.espacio {
+    margin: 5px;
+    padding: 10px; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-top: .5px solid rgb(255, 255, 255);
+    border-bottom: .5px solid rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+div.espre {
+    margin: 5px;
+    padding: 10px; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-top: .5px solid rgb(255, 255, 255);
+    border-bottom: .5px transparent rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
